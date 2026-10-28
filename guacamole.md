@@ -10,3 +10,5 @@
 - cumin
 
 ## Instructions
+- cut the tomato in small bits
+- press the avocado
